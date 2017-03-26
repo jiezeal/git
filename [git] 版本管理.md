@@ -1,4 +1,4 @@
-#Git版本管理
+#Git 版本管理
 
 ###远程仓库
 生成密钥：ssh-keygen -t rsa -C "zhulinjie_cool@126.com"  
@@ -26,6 +26,7 @@ git remote add origin git@git.4000669696.com:weiyuyan/groups.git
 git merge origin/master  或者  git rebase origin/master  
 git push origin --delete 分支名 删除远程分支
 git remote -v 查看远程仓库地址
+git pull origin 远程分支名:本地分支名
 
 场景：
 正式服务器课时统计出了BUG
