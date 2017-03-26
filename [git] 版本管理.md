@@ -1,4 +1,4 @@
-#Git
+#[git] 版本管理
 
 ###远程仓库
 生成密钥：ssh-keygen -t rsa -C "zhulinjie_cool@126.com"  
