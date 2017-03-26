@@ -25,7 +25,7 @@ git remote add origin git@git.4000669696.com:weiyuyan/groups.git
 此外，也可以使用git merge命令或者git rebase命令，在本地分支上合并远程分支：
 git merge origin/master  或者  git rebase origin/master  
 删除远程分支：git push origin --delete 分支名 
-git remote -v 查看远程仓库地址
+查看远程仓库地址：git remote -v 
 git pull origin 远程分支名:本地分支名  拉取远程分支的更新到本地
 
 场景：
