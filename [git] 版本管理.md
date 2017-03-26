@@ -1,5 +1,5 @@
 #Git 版本管理
-
+a
 ###远程仓库
 生成密钥：ssh-keygen -t rsa -C "zhulinjie_cool@126.com"  
 克隆远程仓库：git clone git@114.112.154.146:test/demo.git  
