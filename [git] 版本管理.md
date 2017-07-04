@@ -27,6 +27,7 @@ git merge origin/master  或者  git rebase origin/master
 删除远程分支：git push origin --delete 分支名  
 查看远程仓库地址：git remote -v  
 拉取远程分支的更新到本地：git pull origin 远程分支名:本地分支名  
+克隆远程某个分支： git clone -b webpack2 https://github.com/sailengsi/sls-admin.git  
 
 场景：
 正式服务器课时统计出了BUG
