@@ -43,6 +43,12 @@ git commit -m '修复课时统计BUG'
 git push origin Ver_1.0:Ver_1.0.1	
 ```
 
+```
+git tag 1.0 -a
+Release version 1.0
+
+git push --tags
+```
 
 
 
